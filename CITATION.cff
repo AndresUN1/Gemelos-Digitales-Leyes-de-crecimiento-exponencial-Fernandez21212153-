@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - affiliation: Tecnologico Nacional de Mexico
+    given-names: Hector Andres
+    family-names: Fernandez Esquivel
+    email: hesquivel693@gmail.com
+abstract: |-
+  Tecnologico Nacional de Mexico
+  Instituto Tecnologico de Tijuana
+  Ingenieria Biomedica
+  Gemelos Digitales
+  Practica 1 Leyes de crecimiento exponencial
+keywords:
+  - Ley de crecimiento exponencial
+  - Metodo de Heun
+  - Nanohidrogeles
+  - Tasas de liberacion de farmaco
+  - Farmacocinetica
+  - Protocolo basado en modelos
+license: BSD-2-Clause
+date-released: '2025-02-10'
